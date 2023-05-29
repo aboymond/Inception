@@ -1,4 +1,3 @@
-Pour mettre en place cette mini-infrastructure de services en utilisant Docker Compose et respecter les règles spécifiques mentionnées, voici une méthodologie recommandée :
 
     1) Comprendre les exigences : Lisez attentivement les spécifications du projet pour comprendre les services requis, les contraintes de construction des images Docker, les règles de réseau, les volumes nécessaires et les bonnes pratiques.
 
@@ -24,4 +23,3 @@ Pour mettre en place cette mini-infrastructure de services en utilisant Docker C
 
     12) Construction et déploiement : Utilisez votre Makefile pour appeler les Dockerfiles et construire les images Docker nécessaires. Assurez-vous de ne pas utiliser des images pré-construites provenant de DockerHub, car cela est interdit pour Alpine et Debian. Assurez-vous que vos containers se lancent correctement sans recourir à des "hacky patches" ou des boucles infinies.
 
-Pour obtenir plus de détails sur la syntaxe spécifique de Docker Compose, les bonnes pratiques d'écriture de Dockerfiles et le fonctionnement des daemons, vous pouvez consulter la documentation officielle de Docker et Docker Compose.
