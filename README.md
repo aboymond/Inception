@@ -23,3 +23,14 @@
 
     12) Construction et déploiement : Utilisez votre Makefile pour appeler les Dockerfiles et construire les images Docker nécessaires. Assurez-vous de ne pas utiliser des images pré-construites provenant de DockerHub, car cela est interdit pour Alpine et Debian. Assurez-vous que vos containers se lancent correctement sans recourir à des "hacky patches" ou des boucles infinies.
 
+### Sources:
+
+#### DOCKER COMPOSE:
+https://www.youtube.com/watch?v=pMAGe6nTkws&t=480s
+
+#### NGINX:
+https://www.youtube.com/watch?v=YD_exb9aPZU
+
+#### PHP FPM:
+https://www.youtube.com/watch?v=4K0nbiFLDHg&t=212s
+
