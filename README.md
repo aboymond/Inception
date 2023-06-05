@@ -1,9 +1,9 @@
 
-    1) Comprendre les exigences : Lisez attentivement les spécifications du projet pour comprendre les services requis, les contraintes de construction des images Docker, les règles de réseau, les volumes nécessaires et les bonnes pratiques.
+    ##### 1) Comprendre les exigences : Lisez attentivement les spécifications du projet pour comprendre les services requis, les contraintes de construction des images Docker, les règles de réseau, les volumes nécessaires et les bonnes pratiques.
 
-    2) Apprendre Docker et Docker Compose : Si vous n'êtes pas familier avec Docker et Docker Compose, familiarisez-vous avec ces technologies. Vous pouvez consulter la documentation officielle de Docker et Docker Compose pour apprendre les concepts de base, les commandes et les bonnes pratiques.
+    ##### 2) Apprendre Docker et Docker Compose : Si vous n'êtes pas familier avec Docker et Docker Compose, familiarisez-vous avec ces technologies. Vous pouvez consulter la documentation officielle de Docker et Docker Compose pour apprendre les concepts de base, les commandes et les bonnes pratiques.
 
-    3) Installer une machine virtuelle : Configurez une machine virtuelle sur laquelle vous effectuerez le projet. Vous pouvez utiliser des solutions comme VirtualBox ou VMware pour créer une machine virtuelle compatible avec votre système d'exploitation.
+    ##### 3) Installer une machine virtuelle : Configurez une machine virtuelle sur laquelle vous effectuerez le projet. Vous pouvez utiliser des solutions comme VirtualBox ou VMware pour créer une machine virtuelle compatible avec votre système d'exploitation.
 
     4) Préparer l'environnement de développement : Configurez votre machine virtuelle avec le système d'exploitation choisi (Alpine Linux ou Debian Buster). Installez Docker et Docker Compose dans votre machine virtuelle en suivant les instructions officielles.
 
