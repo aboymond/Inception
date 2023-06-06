@@ -25,6 +25,9 @@
 
 ### Sources:
 
+##### DOCKER
+https://www.youtube.com/watch?v=SXB6KJ4u5vg
+
 #### DOCKER COMPOSE:
 https://www.youtube.com/watch?v=pMAGe6nTkws&t=480s
 
